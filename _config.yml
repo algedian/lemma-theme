@@ -1,10 +1,10 @@
 # user variables, change this to make custom site.
 
-name:
+name: My Blog
 desc: Yet another simple theme for Jekyll.
 author:
   name: Kyeonghee Seo
-  avatar: 
+  avatar:
   profile: |
     2018.01 NHN엔터테인먼트 입사
       - 2018.01 현재 기술직군 신입사원
