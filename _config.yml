@@ -1,12 +1,13 @@
 # user variables, change this to make custom site.
 
-name: Lemma
+name:
 desc: Yet another simple theme for Jekyll.
 author:
   name: Kyeonghee Seo
-  avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
+  avatar: 
   profile: |
-    practicing....
+    2018.01 NHN엔터테인먼트 입사
+      - 2018.01 현재 기술직군 신입사원
   socials:
     facebook:
     twitter:
