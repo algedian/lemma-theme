@@ -17,4 +17,4 @@ tags: [TOAST_Rookie, Diary]
 
 이 다음 포스트로는 자바스크립트 마스터북을 읽으면서 두레이 프로젝트에 따로 기록해두었던 것들을 다시 예쁘게 ~~보다는 덜 더럽게~~ 표현하려고 한다.
 <br>
-다음 포스트 링크 - [자바스크립트 마스터북 메모](./2018-01-14-javascript-masterbook-memo.md)
+다음 포스트 링크 - [자바스크립트 마스터북 메모](./javascript-masterbook-memo.html)

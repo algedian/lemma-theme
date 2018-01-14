@@ -19,6 +19,7 @@ author:
     steam:
 license: MIT License
 
+disqus: "khseo"
 
 # theme variables, change this to make site looks best.
 baseurl: /
