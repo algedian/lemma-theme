@@ -1,6 +1,6 @@
 ---
 title: 지킬에 Disqus 더하기
-tags: [TOAST_Rookie, Study]
+tags: [TOAST_Rookie, Study, Misc]
 ---
 
 ~~Disqus 붙이는 걸 깜박해서.....~~
