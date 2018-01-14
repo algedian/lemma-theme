@@ -1,6 +1,6 @@
 ---
 title: 자바스크립트 마스터북 메모
-tags: [TOASTrookie], [Study]
+tags: [TOAST_Rookie, Study]
 ---
 
 **히스토리**

@@ -1,6 +1,6 @@
 ---
 title: Basecamp 1일차 소감
-tags: [TOASTrookie], [Diary]
+tags: [TOAST_Rookie, Diary]
 ---
 
 ~~현재 이 글은 basecamp 5일차지만..~~
