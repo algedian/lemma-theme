@@ -3,23 +3,19 @@
 name: Lemma
 desc: Yet another simple theme for Jekyll.
 author:
-  name: neizod
+  name: Kyeonghee Seo
   avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
   profile: |
-    Just another ordinary grad student in computer engineering.
-    I'm interest in programming language, algorithm, and mathematics.
-
-    I live in Chiang Mai or Bangkok, Thailand.
-    And you may found me around BarCamp event ;D
+    practicing....
   socials:
-    facebook:
-    twitter: //twitter.com/neizod
-    google-plus:
-    github: //github.com/neizod
-    stack-overflow: //stackoverflow.com/users/889578/neizod
+    facebook: -
+    twitter: -
+    google-plus: -
+    github: //github.com/algedian
+    stack-overflow: -
     instagram:
     pinterest:
-    steam: //steamcommunity.com/id/neizod/
+    steam: -
 license: MIT License
 
 
