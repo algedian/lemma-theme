@@ -15,12 +15,12 @@ author:
     stack-overflow:
     instagram:
     pinterest:
-    steam: 
+    steam:
 license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: /lemma-theme
+baseurl: /
 paginate: 2
 
 
