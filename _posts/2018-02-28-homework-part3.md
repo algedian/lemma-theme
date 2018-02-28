@@ -6,10 +6,18 @@ tags: [assignment]
 Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 요약하는 과제.
 
 # Part 3 를 읽고 테스트 환경에 대해 정리 (word 1 page)
+
+## chap 8 Evaluating Systems to Increase Performance Testing Effectiveness
+
 - 이 파트는 테스트 환경에 대해서 확인하는 부분, 그래서 어떤 방법으로 테스트 환경을 확인하는 지에 대해서 나와있다. 그래서 테스트 환경이 뭐니? 에 대한 질문이다.
 - 테스트 환경이란?
   - 테스트가 이루어지는 곳이 테스트 환경이겠지.
   - 
+
+### overview
+- 시스템 평가는 성능 테스트 노력 전반에 걸쳐 진행중인 프로세스이지만 테스트 프로젝트 초기에 수행 될 때 더 큰 가치를 제공합니다. 시스템 평가의 의도는 전체적으로 프로젝트, 시스템의 기능, 기대되는 사용자 활동, 시스템 아키텍처 및 프로젝트의 특정 요구를 달성하기 위해 성능 테스트를 안내하는 데 도움이되는 기타 세부 사항에 대한 정보를 수집하는 것입니다 . 이 정보는 성능 목표 및 요구 사항 수집, 작업 부하 특성화, 성능 테스트 전략 및 계획 작성, 프로젝트 및 시스템 위험 평가에 대한 기초를 제공합니다.
+
+테스트중인 시스템에 대한 철저한 이해는 성공적인 성능 테스트 노력에 중요합니다. 나중 단계에서 수집 된 측정치는이 단계에서 개발되고 검증 된 모델만큼 정확합니다. 평가는 수용 가능한 성과를 결정하기위한 토대를 제공한다. 소프트웨어, 시스템 또는 구성 요소의 성능 요구 사항 지정 테스트가 시작되기 전에 노력에 대한 위험을 식별 할 수 있습니다.
 
 ### approach for evaluating the system
 - 시스템을 평가하는 활동들
@@ -25,15 +33,21 @@ Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 �
   - capture user activites
   - capture the logical and physical architecture
 
-### 시스템 기능과 비즈니스 과정 포착하기 capture system functions and/or business processes
+### capture system functions and/or business processes
+시스템 기능과 비즈니스 과정 포착하기 
 
 - 고려사항
-### 사용자 활동 포착하기 capture user activites
+
+### capture user activites
+사용자 활동 포착하기
 
 - 고려사항
-### 논리 아키텍처와 물리 아키텍처 포착하기 capture the logical and physical architecture
+
+### capture the logical and physical architecture
+논리 아키텍처와 물리 아키텍처 포착하기 
 
 - 고려사항
+
 ### summary
 - 시스템 평가는 성능 테스트 작업 전반적으로 진행되는 작업이지만, 성능 테스트 초반에 많은 가치를 준다.
 - 시스템 평가 작업이 일어나는 동안에, 위의 3가지 같은 정보를 모으면, 프로젝트의 특정 요구를 만족하기 때문에? 성능 테스트를 가이드하는데에 도움을 준다.
