@@ -1,11 +1,11 @@
 ---
-title: 성능 교육 진행을 위한 과제 - part 2 (chap 4,5,6,7) (need more)
+title: 성능 교육 진행을 위한 과제 - part 2 (chap 4,5,6,7)
 tags: [assignment]
 ---
 
 Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 요약하는 과제.
 
-# Part 2 를 읽고 성능테스트시 어떤 작업들이 필요한지 정리 (word 2 page)
+# Part 2 를 읽고 성능테스트시 어떤 작업들이 필요한지 정리
 
 ### 웹 서비스의 성능 테스트 핵심 활동
 #### 핵심 성능 테스트 활동 7가지

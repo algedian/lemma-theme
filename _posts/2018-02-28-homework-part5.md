@@ -24,6 +24,10 @@ Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 �
 
 - 비현실적인 워크로드 모델을 시뮬레이션하면 성능 테스트를 수행 할 때 가치 있는 정보를 제공할 수 있지만 실제 작업 부하 모델을 시뮬레이션 할 때만 프로덕션 환경에서 성능에 대한 정확한 예측이나 성능 최적화의 우선 순위를 지정할 수 있습니다.
 
+
+- 성능 테스트를 만들 때, 테스트 조건은 프로덕션 사용방법이나 미래의 비즈니스 영업량과 비슷해야 한다.
+- 정확하고 예측적인 테스트 결과를 위해서, 유저 행동은 반드시 유저가 웹 사이트와 상호작용을 어떻게 하는지를 나타낼 수 있는 요소들을 기반으로 한 소비자 세션 모델링을 포함해야 한다.
+
 ### identify the objectives
 
 
@@ -46,8 +50,7 @@ Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 �
 
 
 ### summary
-- 성능 테스트를 만들 때, 테스트 조건은 프로덕션 사용방법이나 미래의 비즈니스 영업량과 비슷해야 한다.
-- 정확하고 예측적인 테스트 결과를 위해서, 유저 행동은 반드시 유저가 웹 사이트와 상호작용을 어떻게 하는지를 나타낼 수 있는 요소들을 기반으로 한 소비자 세션 모델링을 포함해야 한다.
+
 
 
 ## chap 13 determining individual user data and variances

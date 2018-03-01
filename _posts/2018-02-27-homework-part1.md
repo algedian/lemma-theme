@@ -1,5 +1,5 @@
 ---
-title: 성능 교육 진행을 위한 과제 - part 1 (chap 1,2,3) (o)
+title: 성능 교육 진행을 위한 과제 - part 1 (chap 1,2,3)
 tags: [assignment]
 ---
 
@@ -42,6 +42,7 @@ Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 �
       - 프로세스
       - 준수 기준 ~~compliance criteria~~
       - 프로젝트 스케줄
+
 ### 성능 테스트의 카테고리
   - 퍼포먼스 테스트
   - 로드 테스트
