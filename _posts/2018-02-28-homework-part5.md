@@ -19,8 +19,6 @@ Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 �
 - 생성하기 위해서, 반드시 이해해야 한다.
 -
 
-
-- 웹 사이트 테스트는 예술보다 과학이다.
 -
 
 
