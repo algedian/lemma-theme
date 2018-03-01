@@ -1,5 +1,5 @@
 ---
-title: 성능 교육 진행을 위한 과제 - part 3 (chap 8) (더 수정하기)
+title: 성능 교육 진행을 위한 과제 - part 3 (chap 8) (x)
 tags: [assignment]
 ---
 

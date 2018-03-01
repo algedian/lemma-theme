@@ -1,5 +1,5 @@
 ---
-title: 성능 교육 진행을 위한 과제 - part 7 (chap 15,16)
+title: 성능 교육 진행을 위한 과제 - part 7 (chap 15,16) (o)
 tags: [assignment]
 ---
 
