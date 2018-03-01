@@ -5,7 +5,7 @@ tags: [assignment]
 
 Microsoft의 `[Performance Testing Guidance for Web Applications]` 를 보고 요약하는 과제.
 
-# Part 7 을 읽고 테스트 결과 분석에 대해 정리 (word 2 page)
+# Part 7 을 읽고 테스트 결과 분석에 대해 정리
 
 ### 테스트 결과에 관한 수학적 접근
 - 성과 분석 및 리포팅은 수학 집중적이기 때문에 정확한 성능 테스트 분석과 리포팅을 위해서 성능 테스트 안의 수학적인 개념과 통계적인 개념은 중요하다.
