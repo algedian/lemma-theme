@@ -1,5 +1,5 @@
 ---
-title: 성능 교육 진행을 위한 과제 - part 4 (chap 9,10) (xx)
+title: 성능 교육 진행을 위한 과제 - part 4 (chap 9,10) (no)
 tags: [assignment]
 ---
 
